@@ -10,3 +10,13 @@ Probando y corrigiendo poco a poco entendí mejor cómo funciona el flujo de lec
 Este proyecto me ayudó a pensar más como programador, anticipando errores antes de que pasen 
 Ahora siento que tengo más control al trabajar con datos reales y no solo ejemplos pequeños 
 En general, este código me hizo ganar más confianza y disciplina al programar y depurar errores
+
+
+
+Gestion de Tiempo:
+
+Lectura del archivo y entendimiento del problema:15 min
+Investigacion para el codigo: 20 min
+Escribir el código:1 hora y media
+Correccion y errores: 45 min
+Total: 2 Horas y 20 min
